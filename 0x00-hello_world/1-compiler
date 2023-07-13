@@ -1,2 +1,2 @@
-#!/bin/bas
+#!/bin/bash
 gcc -с SCFILE -0 'echo $CFILE | cut -d. -f1'.o
