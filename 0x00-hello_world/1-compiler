@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -C SCFILE -o 'echo $CFILE | cut -d. -f1' .o
+gcc -C SCFILE -o 'echo $CFILE | cut -d. -f1'.o
